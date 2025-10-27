@@ -1,13 +1,13 @@
-# 🌸 Iris Flower Classification using Random Forest & Streamlit
+# 🌸 Iris Flower Classification using K-Neighbours Classifer & Streamlit
 
-A **machine learning web app** built with **Random Forest Classifier** and **Streamlit** that predicts the **species of Iris flower** based on its features such as sepal and petal dimensions.
+A **machine learning web app** built with **K-Neighbours Classifier** and **Streamlit** that predicts the **species of Iris flower** based on its features such as sepal and petal dimensions.
 
 ---
 
 ## 🚀 Features
 
 - 🌼 Predicts one of three species: *Setosa*, *Versicolor*, or *Virginica*  
-- 📊 Uses a **trained Random Forest model** for accurate classification  
+- 📊 Uses a **trained K-Neighbours model** for accurate classification  
 - 🧠 Simple, intuitive **Streamlit-based web interface**  
 - 💾 Includes model saving/loading using **joblib**  
 
